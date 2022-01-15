@@ -1,5 +1,7 @@
 # -6companies30days
+
 # GoldManSachs
+
 Q1. https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/
 
 Q2. https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/
@@ -31,6 +33,7 @@ Q14.https://leetcode.com/problems/minimum-size-subarray-sum/
 Q15. https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1
 
 # Amazon
+
 Q1. https://practice.geeksforgeeks.org/problems/maximum-profit4657/1
 
 Q2. https://leetcode.com/problems/longest-mountain-in-array/
@@ -60,4 +63,37 @@ Q13. https://leetcode.com/problems/rotting-oranges/
 Q14. https://practice.geeksforgeeks.org/problems/burning-tree/1/
 
 Q15. https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/
+
+# Microsoft
+
+Q1. https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/
+
+Q2. https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/
+
+Q3. https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/
+
+Q4. https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/
+
+Q5. https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1
+
+Q6. https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/
+
+Q7. https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/
+
+Q8. https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/
+
+Q9. https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/
+
+Q10. https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/
+
+Q11. https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/
+
+Q12. https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1
+
+Q13. https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1
+
+Q14. https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/
+
+Q15. https://practice.geeksforgeeks.org/problems/alien-dictionary/1/
+
 
