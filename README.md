@@ -98,33 +98,33 @@ Q15. https://practice.geeksforgeeks.org/problems/alien-dictionary/1/
 
 # Adobe
 
-1.Find a continuous sub-array which adds to a given number S. 
+Q1. Find a continuous sub-array which adds to a given number S. 
 
-2.Find the length of the Longest Arithmetic Progression (LLAP) in it. 
+Q2. Find the length of the Longest Arithmetic Progression (LLAP) in it. 
+ 
+Q3. Number of distinct Words with k maximum contiguous vowels(Joe and his Dictionary Problem) 
 
-3.Number of distinct Words with k maximum contiguous vowels(Joe and his Dictionary Problem) 
+Q4. Partition Equal Subset Sum 
 
-4.Partition Equal Subset Sum 
+Q5. Total number of ways n can be expressed as sum of xth power of unique natural numbers 
 
-5.Total number of ways n can be expressed as sum of xth power of unique natural numbers 
+Q6. Generate all combinations of well-formed(balanced) parentheses. 
 
-6.Generate all combinations of well-formed(balanced) parentheses. 
+Q7. Pots of Gold Game (Similar to Covid and Beds problem) 
 
-7.Pots of Gold Game (Similar to Covid and Beds problem) 
+Q8. ATOI 
 
-8.ATOI 
+Q9. Smallest palindromic number greater than N using the same set of digits as in N. 
 
-9.Smallest palindromic number greater than N using the same set of digits as in N. 
+Q10. Elections 
 
-10.Elections 
+Q11. String Amendment 
 
-11.String Amendment 
+Q12. Leaders in Array 
 
-12.Leaders in Array 
+Q13. Minimum operations to convert array A to B 
 
-13.Minimum operations to convert array A to B 
+Q14. Smallest range in K lists
 
-14.Smallest range in K lists
-
-15.Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.
+Q15. Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.
 
