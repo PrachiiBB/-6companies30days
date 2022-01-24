@@ -114,7 +114,7 @@ Q15. https://practice.geeksforgeeks.org/problems/alien-dictionary/1/
 
 8.ATOI 
 
-9. Smallest palindromic number greater than N using the same set of digits as in N. 
+9.Smallest palindromic number greater than N using the same set of digits as in N. 
 
 10.Elections 
 
