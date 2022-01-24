@@ -1,58 +1,55 @@
+// { Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
-#define N 1000
 
-class Solution
-{
-public:
-    pair<int, int> findSmallestRange(int KSortedArray[][N], int n, int k)
-    {
-        set<pair<int, pair<int, int>>> s;
 
-        pair<int, int> res{0, INT_MAX};
+ // } Driver Code Ends
+//User function Template for C++
 
-        for (size_t i = 0; i < k; ++i)
-        {
-            s.insert({KSortedArray[i][0], {i, 0}});
+class Solution {
+  public:
+    int minInsAndDel(int A[], int B[], int N, int M) {
+        // code here
+        vector<int> lis;// store longest increasing subsequence in nlogn time
+        
+        unordered_set<int> s;
+        for(int i = 0; i < M ;i++){
+            s.insert(B[i]);
         }
-
-        while (!s.empty())
-        {
-            int minVal = s.begin()->first;
-            int maxVal = s.rbegin()->first;
-            if (res.second - res.first > maxVal - minVal)
-            {
-                res.first = minVal;
-                res.second = maxVal;
+        
+        
+        for(int i = 0; i < N ;i++){
+            if(s.find(A[i])!=s.end()){
+                auto it = lower_bound(lis.begin(),lis.end(),A[i]);
+                if(it==lis.end()){
+                    lis.push_back(A[i]);
+                }else{
+                    *it = A[i];
+                }
             }
-
-            int r = s.begin()->second.first;
-            int c = s.begin()->second.second;
-            s.erase(s.begin());
-            if (c + 1 == n)
-                break;
-            s.insert({KSortedArray[r][c + 1], {r, c + 1}});
         }
-        return res;
+        
+        return N+M-2*lis.size();
     }
 };
 
-int main()
-{
+// { Driver Code Starts.
+
+int main() {
     int t;
     cin >> t;
-    while (t--)
-    {
-        int n, k;
-        cin >> n >> k;
-        int arr[N][N];
-        pair<int, int> rangee;
-        for (int i = 0; i < k; i++)
-            for (int j = 0; j < n; j++)
-                cin >> arr[i][j];
-        Solution obj;
-        rangee = obj.findSmallestRange(arr, n, k);
-        cout << rangee.first << " " << rangee.second << "\n";
+    while (t--) {
+        int N,M;
+        cin>>N>>M;
+        
+        int A[N], B[M];
+        for(int i=0; i<N; i++)
+            cin>>A[i];
+        for(int i=0; i<M; i++)
+            cin>>B[i];
+
+        Solution ob;
+        cout << ob.minInsAndDel(A,B,N,M) << endl;
     }
     return 0;
-}
+}  // } Driver Code Ends
