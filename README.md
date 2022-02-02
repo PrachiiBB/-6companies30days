@@ -53,21 +53,21 @@ Sr  | [Problems](./Amazon)                                                      
 
 Sr  | [Problems](./Microsoft)                                                                     | TryIt                                                                                                                  | Status
 ----|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Minimum sum partition](./Microsoft/ques1.java)                                         				| [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | ✅
-2   | [Prerequisite Tasks](./Microsoft/ques2.java)                                               			| [Problem Link](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
-3   | [Rotate by 90 degree](./Microsoft/ques3.java)                                             			| [Problem Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                               | ✅
-4   | [Spirally traversing a matrix](./Microsoft/ques4.java)                           						| [Problem Link](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | ✅
-5   | [Stock span problem](./Microsoft/ques5.java)                                               			| [Problem Link](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | ✅
-6   | [Possible Words From Phone Digits](./Microsoft/ques6.java)                   							| [Problem Link](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | ✅
-7   | [Unit Area of largest region of 1's](./Microsoft/ques7.java)                  						| [Problem Link](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | ✅
-8   | [Connect Nodes at Same Level](./Microsoft/ques8.java)                             					| [Problem Link](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | ✅
-9   | [Count Number of SubTrees having given Sum](./Microsoft/ques9.java) 									| [Problem Link](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)             | ✅
-10  | [Stickler Thief](./Microsoft/ques10.java)                                                       		| [Problem Link](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                             | ✅
-11  | [Generate Binary Numbers](./Microsoft/ques11.java)                                     				| [Problem Link](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)                    | ✅
-12  | [Find All Four Sum Numbers](./Microsoft/ques12.java)                                 					| [Problem Link](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                          | ✅
-13  | [Bridge edge in a graph](./Microsoft/ques13.java)                                         			| [Problem Link](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | ✅
-14  | [Minimum steps to destination](./Microsoft/ques14.java)                           					| [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | ✅
-15  | [Alien Dictionary](./Microsoft/ques15.java)                                                   		| [Problem Link](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | ✅
+1   | [Minimum sum partition](./Microsoft/Question_1.cpp)                                         				| [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | ✅
+2   | [Prerequisite Tasks](./Microsoft/Question_2.cpp)                                               			| [Problem Link](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
+3   | [Rotate by 90 degree](./Microsoft/Question_3.cpp)                                             			| [Problem Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/)                               | ✅
+4   | [Spirally traversing a matrix](./Microsoft/Question_4.cpp)                           						| [Problem Link](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/)               | ✅
+5   | [Stock span problem](./Microsoft/Question_5.cpp)                                               			| [Problem Link](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                          | ✅
+6   | [Possible Words From Phone Digits](./Microsoft/Question_6.cpp)                   							| [Problem Link](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/)           | ✅
+7   | [Unit Area of largest region of 1's](./Microsoft/Question_7.cpp)                  						| [Problem Link](https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/)             | ✅
+8   | [Connect Nodes at Same Level](./Microsoft/Question_8.cpp)                             					| [Problem Link](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/)                           | ✅
+9   | [Count Number of SubTrees having given Sum](./Microsoft/Question_9.cpp) 									| [Problem Link](https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/)             | ✅
+10  | [Stickler Thief](./Microsoft/Question_10.cpp)                                                       		| [Problem Link](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/)                             | ✅
+11  | [Generate Binary Numbers](./Microsoft/Question_11.cpp)                                     				| [Problem Link](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/)                    | ✅
+12  | [Find All Four Sum Numbers](./Microsoft/Question_12.cpp)                                 					| [Problem Link](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1)                          | ✅
+13  | [Bridge edge in a graph](./Microsoft/Question_13.cpp)                                         			| [Problem Link](https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1)                                   | ✅
+14  | [Minimum steps to destination](./Microsoft/Question_14.cpp)                           					| [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/)   | ✅
+15  | [Alien Dictionary](./Microsoft/Question_15.cpp)                                                   		| [Problem Link](https://practice.geeksforgeeks.org/problems/alien-dictionary/1/)                                      | ✅
 
 </details>
 
@@ -79,21 +79,21 @@ Sr  | [Problems](./Microsoft)                                                   
 
 Sr  | [Problems](./Adobe)                                                                     									| TryIt                                                                                                                  							| Status
 ----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Find a continuous sub-array which adds to a given number S](./Adobe/ques1.java)                                         				| [Problem Link](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                             						| ✅
-2   | [Find the length of the Longest Arithmetic Progression (LLAP) in it](./Adobe/ques2.java)                                              | [Problem Link](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)                                   				| ✅
-3   | [Number of distinct Words with k maximum contiguous vowels](./Adobe/ques3.java)                                             			| [Problem Link](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/)                               			| ✅
-4   | [Partition Equal Subset Sum](./Adobe/ques4.java)                           															| [Problem Link](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)               												| ✅
-5   | [Total number of ways n can be expressed as sum of xth power of unique natural numbers](./Adobe/ques5.java)                           | [Problem Link](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)                         				| ✅
-6   | [Possible Words From Phone DigitsGenerate all combinations of well-formed(balanced) parentheses.](./Adobe/ques6.java)                 | [Problem Link](https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/)           										| ✅
-7   | [Pots of Gold Game](./Adobe/ques7.java)                  																				| [Problem Link](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/)             														| ✅
-8   | [ATOI](./Adobe/ques8.java)                             																				| [Problem Link](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                           											| ✅
-9   | [Smallest palindromic number greater than N using the same set of digits as in N.](./Adobe/ques9.java) 								| [Problem Link](https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/)             		| ✅
-10  | [Elections](./Adobe/ques10.java)                                                       												| [Problem Link](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)    | ✅
-11  | [String Amendment](./Adobe/ques11.java)                                     															| [Problem Link](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                    											| ✅
-12  | [Leaders in Array](./Adobe/ques12.java)                                 																| [Problem Link](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                          							| ✅
-13  | [Minimum operations to convert array A to B ](./Adobe/ques13.java)                                         							| [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                                   		| ✅
-14  | [Smallest range in K lists](./Adobe/ques14.java)                           															| [Problem Link](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)   							| ✅
-15  | [Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.](./Adobe/ques15.java)        																						| ✅
+1   | [Find a continuous sub-array which adds to a given number S](./Adobe/Question_1.cpp)                                         				| [Problem Link](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                             						| ✅
+2   | [Find the length of the Longest Arithmetic Progression (LLAP) in it](./Adobe/Question_2.cpp)                                              | [Problem Link](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)                                   				| ✅
+3   | [Number of distinct Words with k maximum contiguous vowels](./Adobe/Question_3.cpp)                                             			| [Problem Link](https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/)                               			| ✅
+4   | [Partition Equal Subset Sum](./Adobe/Question_4.cpp)                           															| [Problem Link](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1)               												| ✅
+5   | [Total number of ways n can be expressed as sum of xth power of unique natural numbers](./Adobe/Question_5.cpp)                           | [Problem Link](https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1)                         				| ✅
+6   | [Possible Words From Phone DigitsGenerate all combinations of well-formed(balanced) parentheses.](./Adobe/Question_6.cpp)                 | [Problem Link](https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/)           										| ✅
+7   | [Pots of Gold Game](./Adobe/Question_7.cpp)                  																				| [Problem Link](https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/)             														| ✅
+8   | [ATOI](./Adobe/Question_8.cpp)                             																				| [Problem Link](https://practice.geeksforgeeks.org/problems/implement-atoi/1/)                           											| ✅
+9   | [Smallest palindromic number greater than N using the same set of digits as in N.](./Adobe/Question_9.cpp) 								| [Problem Link](https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/)             		| ✅
+10  | [Elections](./Adobe/Question_10.cpp)                                                       												| [Problem Link](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/)    | ✅
+11  | [String Amendment](./Adobe/Question_11.cpp)                                     															| [Problem Link](https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1)                    											| ✅
+12  | [Leaders in Array](./Adobe/Question_12.cpp)                                 																| [Problem Link](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/)                          							| ✅
+13  | [Minimum operations to convert array A to B ](./Adobe/Question_13.cpp)                                         							| [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/)                                   		| ✅
+14  | [Smallest range in K lists](./Adobe/Question_14.cpp)                           															| [Problem Link](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/)   							| ✅
+15  | [Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.](./Adobe/Question_15.cpp)        																						| ✅
 
 </details>
 
@@ -102,24 +102,46 @@ Sr  | [Problems](./Adobe)                                                       
 
 Sr  | [Problems](./Intuit)                                                                     						| TryIt                                                                                                                  				| Status
 ----|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Partition a set into two subsets such that the difference of subset sums is minimum](./Intuit/ques1.java)    | [Problem Link](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)    | ✅
-2   | [Word Search](./Intuit/ques2.java)                                              								| [Problem Link](https://practice.geeksforgeeks.org/problems/word-search/1/)                                   							| ✅
-3   | [Find missing number in String](./Intuit/ques3.java)                                             				| [Problem Link](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/)                               			| ✅
-4   | [Largest Number in K-Swaps](./Intuit/ques4.java)                           									| [Problem Link](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)               						| ✅
-5   | [Split Array Largest Sum](./Intuit/ques5.java)                           										| [Problem Link](https://leetcode.com/problems/split-array-largest-sum/)                         										| ✅
-6   | [Find in Mountain Array](./Intuit/ques6.java)                 												| [Problem Link](https://leetcode.com/problems/find-in-mountain-array)           														| ✅
-7   | [Capacity to ship packages within d days](./Intuit/ques7.java)                  								| [Problem Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)             									| ✅
-8   | [Number of boomerangs](./Intuit/ques8.java)                             										| [Problem Link](https://leetcode.com/problems/number-of-boomerangs/)                           										| ✅
-9   | [Pacific Atlantic Water Flow](./Intuit/ques9.java) 															| [Problem Link](https://leetcode.com/problems/pacific-atlantic-water-flow/)             												| ✅
-10  | [Number of Provinces](./Intuit/ques10.java)                                                       			| [Problem Link](https://leetcode.com/problems/number-of-provinces/)    																| ✅
-11  | [Construct Quad tree](./Intuit/ques11.java)                                     								| [Problem Link](https://leetcode.com/problems/construct-quad-tree/)                    												| ✅
-12  | [Course Schedule II](./Intuit/ques12.java)                                 									| [Problem Link](https://leetcode.com/problems/course-schedule-ii/)                          											| ✅
-13  | [Minimum swaps to arrange a binary grid](./Intuit/ques13.java)                                         		| [Problem Link](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)                                   				| ✅
-14  | [As far from land as possible](./Intuit/ques14.java)                           								| [Problem Link](https://leetcode.com/problems/as-far-from-land-as-possible/)   														| ✅
-15  | [Koko eating bananas](./Intuit/ques15.java)        															| [Problem link](https://leetcode.com/problems/koko-eating-bananas/)   																	| ✅
+1   | [Partition a set into two subsets such that the difference of subset sums is minimum](./Intuit/Question_1.cpp)    | [Problem Link](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)    | ✅
+2   | [Word Search](./Intuit/Question_2.cpp)                                              								| [Problem Link](https://practice.geeksforgeeks.org/problems/word-search/1/)                                   							| ✅
+3   | [Find missing number in String](./Intuit/Question_3.cpp)                                             				| [Problem Link](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/)                               			| ✅
+4   | [Largest Number in K-Swaps](./Intuit/Question_4.cpp)                           									| [Problem Link](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)               						| ✅
+5   | [Split Array Largest Sum](./Question_5.cpp)                           										| [Problem Link](https://leetcode.com/problems/split-array-largest-sum/)                         										| ✅
+6   | [Find in Mountain Array](./Question_6.cpp)                 												| [Problem Link](https://leetcode.com/problems/find-in-mountain-array)           														| ✅
+7   | [Capacity to ship packages within d days](./Intuit/Question_7.cpp)                  								| [Problem Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)             									| ✅
+8   | [Number of boomerangs](./Intuit/Question_8.cpp)                             										| [Problem Link](https://leetcode.com/problems/number-of-boomerangs/)                           										| ✅
+9   | [Pacific Atlantic Water Flow](./Intuit/Question_9.cpp) 															| [Problem Link](https://leetcode.com/problems/pacific-atlantic-water-flow/)             												| ✅
+10  | [Number of Provinces](./Intuit/Question_10.cpp)                                                       			| [Problem Link](https://leetcode.com/problems/number-of-provinces/)    																| ✅
+11  | [Construct Quad tree](./Intuit/Question_11.cpp)                                     								| [Problem Link](https://leetcode.com/problems/construct-quad-tree/)                    												| ✅
+12  | [Course Schedule II](./Intuit/Question_12.cpp)                                 									| [Problem Link](https://leetcode.com/problems/course-schedule-ii/)                          											| ✅
+13  | [Minimum swaps to arrange a binary grid](./Intuit/Question_13.cpp)                                         		| [Problem Link](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)                                   				| ✅
+14  | [As far from land as possible](./Intuit/Question_14.cpp)                           								| [Problem Link](https://leetcode.com/problems/as-far-from-land-as-possible/)   														| ✅
+15  | [Koko eating bananas](./Intuit/Question_15.cpp)        															| [Problem link](https://leetcode.com/problems/koko-eating-bananas/)   																	| ✅
 
 </details>
 
+<details>
+<summary style="font-size: 1.5em">Walmart (15/15)</summary>
+
+Sr  | [Problems](./Walmart)                                                                                | TryIt                                                                                                                  | Status
+----|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------
+1   | [Path with Maximum Probability](./Walmart/Question_1.cpp)                                                                  		| [Problem Link](Path with Maximum Probability)                                     | ✅
+2   | [Stone Game](./Walmart/Question_2.cpp)                                            					| [Problem Link](https://leetcode.com/problems/stone-game)                                             | ✅
+3   | [Remove colored pieces if both neighbors are the same color](./Walmart/Question_3.cpp)                                                    				| [Problem Link](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)              | ✅
+4   | [Number of Unique Paths](./Walmart/Question_4.cpp)                       							| [Problem Link](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)           | ✅
+5   | [Transform to Sum Tree](./Walmart/Question_5.cpp)                                                                		| [Problem Link](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/)                                   | ✅
+6   | [Maximum of all subarrays of size kPower of Numbers](./Walmart/Question_6.cpp)                            							| [Problem Link](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)                 | ✅
+7   | [Sorted subsequence of size 3](./Walmart/Question_7.cpp)            									| [Problem Link](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/)          | ✅
+8   | [Maximum height-tree](./Walmart/Question_8.cpp)   										| [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/)      | ✅
+9   | [Guess number higher or lower](./Walmart/Question_9.cpp)                                                                		| [Problem Link](https://leetcode.com/problems/guess-number-higher-or-lower-ii)                                   | ✅
+10  | [Generate random point in a circle](./Walmart/Question_10.cpp)                                                  				| [Problem Link](https://leetcode.com/problems/generate-random-point-in-a-circle)                             | ✅
+11  | [Maximum Performance of a Team](./Walmart/Question_11.cpp)                								| [Problem Link](Maximum Performance of a Team (Dashboard Question Similar))                | ✅
+12  | [Find array given subset sums](./Walmart/Question_12.cpp)                  								| [Problem Link](https://leetcode.com/problems/find-array-given-subset-sums)            | ✅
+13  | [Find the Kth Largest Integer in the Array](./Walmart/Question_13.cpp)                                                                		| [Problem Link](Find the Kth Largest Integer in the Array (Cows and Farm Question))                                                       | ✅
+14  | [Largest number in K swaps](./Walmart/Question_14.cpp)                                                                      	| [Problem Link](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/)                                          | ✅
+15  | [Divide two Integer](./Walmart/Question_15.cpp)    										| [Problem Link](https://leetcode.com/problems/divide-two-integers/)         | ✅
+
+</details>
 
 
 
