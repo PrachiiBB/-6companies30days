@@ -3,25 +3,25 @@
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.5em">Gold Man Sachs (15/15)</summary>
+<summary style="font-size: 1.5em">Goldman-Sachs (15/15)</summary>
 
-Sr  | [Problems](./Gold Man Sachs/README.md)                                                                                     | TryIt                                                                                                                  | Status
+Sr  | [Problems](./Goldman-Sachs/README.md)                                                                                     | TryIt                                                                                                                  | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Print Anagrams Together](./Gold Man Sachs/Question_1.cpp)                                                     		| [Problem Link](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              | ✅
-2   | [Overlapping Rectangles](./Gold Man Sachs/Question_2.cpp)                                                   			| [Problem Link](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                            | ✅
-3   | [Count the subarrays having product less than k](./Gold Man Sachs/Question_3.cpp)   									| [Problem Link](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)    | ✅
-4   | [Run Length Encoding](./Gold Man Sachs/Question_4.cpp)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                   | ✅
-5   | [Ugly Number](./Gold Man Sachs/Question_5.cpp)                                                                        | [Problem Link](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                      | ✅
-6   | [Greatest Common Divisor of Strings](./Gold Man Sachs/Question_6.cpp)                               					| [Problem Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                    | ✅
-7   | [Find the position of M-th item](./Gold Man Sachs/Question_7.cpp)                                   					| [Problem Link](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                    | ✅
-8   | [Total Decoding Messages](./Gold Man Sachs/Question_8.cpp)                                                 			| [Problem Link](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                           | ✅
-9   | [Number following a pattern](./Gold Man Sachs/Question_9.cpp)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                        | ✅
-10  | [Max 10 numbers in a list having 10M entries](./Gold Man Sachs/Question_10.cpp)                                  		| [Problem Link](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                                 | ✅
-11  | [Find Missing And Repeating](./Gold Man Sachs/Question_11.cpp)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                       | ✅
-12  | [Squares in N*N Chessboard](./Gold Man Sachs/Question_12.cpp)                                              			| [Problem Link](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                           | ✅
-13  | [Decode the string](./Gold Man Sachs/Question_13.cpp)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                                  | ✅
-14  | [Minimum Size Subarray Sum](./Gold Man Sachs/Question_14.cpp)                                                 		| [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/)                                             | ✅
-15  | [Array Pair Sum Divisibility Problem](./Gold Man Sachs/Question_15.cpp)                         						| [Problem Link](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)               | ✅
+1   | [Print Anagrams Together](./Goldman-Sachs/Question_1.cpp)                                                     		| [Problem Link](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              | ✅
+2   | [Overlapping Rectangles](./Goldman-Sachs/Question_2.cpp)                                                   			| [Problem Link](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                            | ✅
+3   | [Count the subarrays having product less than k](./Goldman-Sachs/Question_3.cpp)   									| [Problem Link](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)    | ✅
+4   | [Run Length Encoding](./Goldman-Sachs/Question_4.cpp)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                   | ✅
+5   | [Ugly Number](./Goldman-Sachs/Question_5.cpp)                                                                        | [Problem Link](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                      | ✅
+6   | [Greatest Common Divisor of Strings](./Goldman-Sachs/Question_6.cpp)                               					| [Problem Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                    | ✅
+7   | [Find the position of M-th item](./Goldman-Sachs/Question_7.cpp)                                   					| [Problem Link](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                    | ✅
+8   | [Total Decoding Messages](./Goldman-Sachs/Question_8.cpp)                                                 			| [Problem Link](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                           | ✅
+9   | [Number following a pattern](./Goldman-Sachs/Question_9.cpp)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                        | ✅
+10  | [Max 10 numbers in a list having 10M entries](./Goldman-Sachs/Question_10.cpp)                                  		| [Problem Link](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                                 | ✅
+11  | [Find Missing And Repeating](./Goldman-Sachs/Question_11.cpp)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                       | ✅
+12  | [Squares in N*N Chessboard](./Goldman-Sachs/Question_12.cpp)                                              			| [Problem Link](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                           | ✅
+13  | [Decode the string](./Goldman-Sachs/Question_13.cpp)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                                  | ✅
+14  | [Minimum Size Subarray Sum](./Goldman-Sachs/Question_14.cpp)                                                 		| [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/)                                             | ✅
+15  | [Array Pair Sum Divisibility Problem](./Goldman-Sachs/Question_15.cpp)                         						| [Problem Link](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)               | ✅
 
 </details>
 
